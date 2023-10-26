@@ -1,7 +1,7 @@
 # Updates.
 <h1>This is what I'm currently working on day-to-day, week by week.<h1></h1>
 <p>I'm here because I want to add my thoughts and see where this goes.<p>
-<p> I'm currently making the transition from working in media, did different asepects; production, videography, audio engineering, video editing for software products and documentation and now I'm making the plunge into just software documentation.</p>
+<p> I'm currently making the transition from working in media, did different aspects; production, videography, audio engineering, video editing for software products and documentation and now I'm making the plunge into just software documentation.</p>
 <p> When I'm not working I'm learning how to code. I just started learning Python literally last week! That's exciting! I mean I think its cool how all the commands use print as opposed to the other commands I'm used to with CSS, Javascript and Html.</p></p>
 <p>Its pretty different from Javascript, HTML and CSS. I have a little, tad expereince with those and XML markup.</p>
 <p>All technical stuff aside, who am I and what do I like to do?</p>
